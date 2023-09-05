@@ -1,12 +1,15 @@
-About the project:
+<h2>About the project:</h2>
 
 Movie APP is a project that uses a search bar to display films that are fetched via API from omdbAPI. In the project we have such functionalities as film search, rating, adding to the list of watched, films with the status of watched are saved in local storage.
 
-Build with:
+<h2>Build with:</h2>
 
 » React JS <br>
 » CSS<br>
 » omdb API<br>
+
+
+<h2>Screenshots of the Project 📸</h2>
 
 <p align="center">
 Search for films
