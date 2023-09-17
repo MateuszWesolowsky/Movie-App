@@ -7,6 +7,7 @@ Movie APP is a project that uses a search bar to display films that are fetched 
 » React JS <br>
 » CSS<br>
 » omdb API<br>
+Live - https://movie-popcorn-app.netlify.app/
 
 
 <h2>Screenshots of the Project 📸</h2>
